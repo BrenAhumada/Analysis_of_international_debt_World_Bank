@@ -1,6 +1,6 @@
 # Análisis de la deuda internacional - Datos suministrados por el Banco Mundial
 
-## Descripción del proyecto
+### Descripción del proyecto
 
 No solo los humanos nos endeudemos para gestionar nuestras necesidades. Un país también puede endeudarse para gestionar su economía. Por ejemplo, el gasto en infraestructura es un ingrediente costoso necesario para que los ciudadanos de un país lleven una vida cómoda. El Banco Mundial es la organización que proporciona deuda a los países.
 
@@ -17,7 +17,7 @@ En este proyecto, voy a analizar los datos de deuda internacional recopilados po
 
 # Analysis of international debt - Data provided by the World Bank
 
-## Project Description
+### Project Description
 
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
 
