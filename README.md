@@ -15,6 +15,7 @@ En este proyecto, voy a analizar los datos de deuda internacional recopilados po
 Los datos utilizados en este proyecto son proporcionados por el Banco Mundial. Contiene estadísticas de deuda tanto nacionales como regionales de varios países de todo el mundo, registradas entre 1970 y 2015.
 
 
+
 # Analysis of international debt - Data provided by the World Bank
 
 
