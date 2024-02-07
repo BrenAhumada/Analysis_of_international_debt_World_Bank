@@ -1,6 +1,6 @@
 # Análisis de la deuda internacional - Datos suministrados por el Banco Mundial
 
-![](World_bank.jpg)
+![](Image/World_bank.jpg)
 
 No solo los humanos nos endeudemos para gestionar nuestras necesidades. Un país también puede endeudarse para gestionar su economía. Por ejemplo, el gasto en infraestructura es un ingrediente costoso necesario para que los ciudadanos de un país lleven una vida cómoda. El Banco Mundial es la organización que proporciona deuda a los países.
 
