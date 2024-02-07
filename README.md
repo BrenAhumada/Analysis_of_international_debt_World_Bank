@@ -32,4 +32,4 @@ In this project, I am going to analyze international debt data collected by [The
 
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 
-![](Image/lets goo.png)
+![](Image/lets_go.png)
